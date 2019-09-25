@@ -39,18 +39,20 @@ function getRandomAirportPerCountry()
 }
 ```
 
-# Select 100 cities, find the closest airport to each, and fly to them
+# Select all the cities and the airports associated with them and calculate the distance
 
 ```sql
-//not complete
 CREATE TABLE `A6_citiesAndAirports` (
       `airport_name` varchar(100) NOT NULL, 
       `city_name` varchar(100) NOT NULL, 
       `airport_geopoint` POINT, 
       `city_geopoint` POINT
       );
-ALTER TABLE `A6_citiesAndAirports` ADD `distance_between` FLOAT(16) NULL DEFAULT NULL AFTER `city_geopoint`;
 INSERT INTO `A6_citiesAndAirports` 
     (SELECT A6_airports.name, A6_cities.name, A6_airports.geopoint, A6_cities.geopoint FROM A6_airports 
-      INNER JOIN A6_cities ON A6_airports.city = A6_cities.name)
+      INNER JOIN A6_cities ON A6_airports.city = A6_cities.name);
+ALTER TABLE `A6_citiesAndAirports` ADD `distance_between` FLOAT(16) NULL DEFAULT NULL AFTER `city_geopoint`;
+INSERT INTO A6_citiesAndAirports (SELECT A6_citiesAndAirports.airport_name, A6_citiesAndAirports.city_name, A6_citiesAndAirports.airport_geopoint, A6_citiesAndAirports.city_geopoint, st_distance_sphere(A6_citiesAndAirports.city_geopoint,A6_citiesAndAirports.airport_geopoint) from A6_citiesAndAirports 
+	INNER JOIN (SELECT *, st_distance_sphere(city_geopoint,airport_geopoint) from A6_citiesAndAirports) AS B ON A6_citiesAndAirports.airport_name = B.airport_name);
+DELETE FROM A6_citiesAndAirports WHERE distance_between IS NULL;/*gets rid of the duplicates*/
 ```
