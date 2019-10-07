@@ -40,6 +40,22 @@ function getRandomAirportPerCountry()
 }
 ```
 
+# Choosing 100 random countries to travel to
+
+```sql
+DELIMITER &
+CREATE PROCEDURE getHundredCountries()
+BEGIN
+	DECLARE rando INT;
+    SET rando = RAND() * 100;
+    SELECT * FROM `A6_visitAllCountries` ORDER BY airport_id LIMIT rando,100;
+END
+&
+DELIMITER ;
+
+CALL getHundredCountries()
+```
+
 # Select all the cities and the airports associated with them and calculate the distance
 
 ```sql
