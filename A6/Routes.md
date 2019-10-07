@@ -1,4 +1,3 @@
-# THIS IS A TEST IF VS CODE IS CONNECTED TO GITHUB!!!
 5303-DB - Dr. Griffin
 
 Assignment 6 - The Worst Flight Planner
