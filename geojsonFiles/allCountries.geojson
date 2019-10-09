@@ -6,13 +6,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141.3028,
-                    -2.6926
+                    143.238006592,
+                    -6.36332988739
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Moro Airport"
+                ],
+                "description": [
+                    "Moro",
+                    "Papua New Guinea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -28,13 +33,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -37.7834093571,
-                    65.8920273392
+                    -69.3887023926,
+                    77.4886016846
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Qaanaaq Airport"
+                ],
+                "description": [
+                    "Qaanaaq",
+                    "Greenland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -50,13 +60,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -18.9167,
-                    66.133301
+                    -14.401399612426758,
+                    65.2833023071289
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Egilssta\u00c3\u00b0ir Airport"
+                ],
+                "description": [
+                    "Egilsstadir",
+                    "Iceland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -72,13 +87,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -64.10639953613281,
-                    53.5619010925293
+                    -130.25,
+                    56.9667015076
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bob Quinn Lake Airport"
+                ],
+                "description": [
+                    "Bob Quinn Lake",
+                    "Canada"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -94,13 +114,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.51202011108,
-                    27.250999450699997
+                    3.794110059738159,
+                    32.38410186767578
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Noum\u00c3\u00a9rat - Moufdi Zakaria Airport"
+                ],
+                "description": [
+                    "Ghardaia",
+                    "Algeria"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -121,8 +146,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Cadjehoun Airport"
+                ],
+                "description": [
+                    "Cotonou",
+                    "Benin"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -138,13 +168,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.33096981048584,
-                    11.160099983215332
+                    -1.51242,
+                    12.3532
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ouagadougou Airport"
+                ],
+                "description": [
+                    "Ouagadougou",
+                    "Burkina Faso"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -160,13 +195,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.507689952850342,
-                    10.0826997756958
+                    -0.16678600013256073,
+                    5.605189800262451
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kotoka International Airport"
+                ],
+                "description": [
+                    "Accra",
+                    "Ghana"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -187,8 +227,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    null
+                ],
+                "description": [
+                    null,
+                    null
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -204,13 +249,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.97832989692688,
-                    7.362460136413574
+                    3.321160078048706,
+                    6.5773701667785645
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Murtala Muhammed International Airport"
+                ],
+                "description": [
+                    "Lagos",
+                    "Nigeria"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -226,13 +276,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.983759880065918,
-                    13.779000282287598
+                    12.86870002746582,
+                    18.968700408935547
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Dirkou Airport"
+                ],
+                "description": [
+                    "Dirkou",
+                    "Niger"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -248,13 +303,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.22719955444336,
-                    36.85100173950195
+                    8.87693977355957,
+                    36.97999954223633
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tabarka 7 Novembre Airport"
+                ],
+                "description": [
+                    "Tabarka",
+                    "Tunisia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -275,8 +335,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Lom\u00c3\u00a9-Tokoin Airport"
+                ],
+                "description": [
+                    "Lome",
+                    "Togo"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -292,13 +357,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.64583015442,
-                    50.2433013916
+                    4.9601898193359375,
+                    51.394798278808594
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Weelde Air Base"
+                ],
+                "description": [
+                    "Weelde",
+                    "Belgium"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -314,13 +384,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.947221755981445,
-                    53.28666687011719
+                    14.152299881,
+                    53.8787002563
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Heringsdorf Airport"
+                ],
+                "description": [
+                    "Heringsdorf",
+                    "Germany"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -336,13 +411,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.47279930114746,
-                    58.41899871826172
+                    22.830699920654297,
+                    58.99079895019531
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "K\u00c3\u00a4rdla Airport"
+                ],
+                "description": [
+                    "Kardla",
+                    "Estonia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -358,13 +438,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.90369987487793,
-                    61.24919891357422
+                    26.798900604248047,
+                    61.062400817871094
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Selanpaa Airport"
+                ],
+                "description": [
+                    "Selanpaa",
+                    "Finland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -380,13 +465,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.645943,
-                    -15.957725
+                    -6.869170188903809,
+                    56.49919891357422
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tiree Airport"
+                ],
+                "description": [
+                    "Tiree",
+                    "United Kingdom"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -402,13 +492,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.6019699573516846,
-                    49.435001373291016
+                    -2.21472,
+                    49.706104
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Alderney Airport"
+                ],
+                "description": [
+                    "Alderney",
+                    "Guernsey"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -429,8 +524,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Jersey Airport"
+                ],
+                "description": [
+                    "Jersey",
+                    "Jersey"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -451,8 +551,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Isle of Man Airport"
+                ],
+                "description": [
+                    "Isle Of Man",
+                    "Isle of Man"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -473,8 +578,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Port Stanley Airport"
+                ],
+                "description": [
+                    "Stanley",
+                    "Falkland Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -490,13 +600,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.51611,
-                    52.730801
+                    5.14694,
+                    52.191898
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hilversum Airfield"
+                ],
+                "description": [
+                    "Hilversum",
+                    "Netherlands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -512,13 +627,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.52377986907959,
-                    52.18090057373047
+                    -8.5992097854614,
+                    54.280200958252
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sligo Airport"
+                ],
+                "description": [
+                    "Sligo",
+                    "Ireland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -534,13 +654,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.15178012848,
-                    55.7402992249
+                    12.656000137329,
+                    55.617900848389
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Copenhagen Kastrup Airport"
+                ],
+                "description": [
+                    "Copenhagen",
+                    "Denmark"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -556,13 +681,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.774419784545898,
-                    61.543701171875
+                    -7.645919799800001,
+                    62.1021003723
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mykines Heliport"
+                ],
+                "description": [
+                    "Mykines",
+                    "Faroe Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -583,8 +713,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Luxembourg-Findel International Airport"
+                ],
+                "description": [
+                    "Luxemburg",
+                    "Luxembourg"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -600,13 +735,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.826700210571,
-                    71.02970123291
+                    11.036100387600001,
+                    59.9692993164
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kjeller Airport"
+                ],
+                "description": [
+                    "Kjeller",
+                    "Norway"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -622,13 +762,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.6518,
-                    52.451099
+                    18.645280838012695,
+                    54.71028137207031
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Jastarnia Airport"
+                ],
+                "description": [
+                    "Jastarnia",
+                    "Poland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -644,13 +789,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.336799621582,
-                    67.821998596191
+                    13.578900337219238,
+                    60.02009963989258
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hagfors Airport"
+                ],
+                "description": [
+                    "Hagfors",
+                    "Sweden"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -666,13 +816,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.1401004791,
-                    -25.986299514799995
+                    27.908899307250977,
+                    -28.82309913635254
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ficksburg Sentraoes Airport"
+                ],
+                "description": [
+                    "Ficksburg",
+                    "South Africa"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -688,13 +843,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.832599639892578,
-                    -18.373899459838867
+                    23.431100845336914,
+                    -19.97260093688965
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Maun Airport"
+                ],
+                "description": [
+                    "Maun",
+                    "Botswana"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -710,13 +870,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.066999435424805,
-                    1.6169999837875366
+                    15.253000259399414,
+                    -4.251699924468994
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Maya-Maya Airport"
+                ],
+                "description": [
+                    "Brazzaville",
+                    "Congo (Brazzaville)"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -732,13 +897,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.447699546813965,
-                    -5.918059825897217
+                    23.569000244099996,
+                    -6.121240139010001
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mbuji Mayi Airport"
+                ],
+                "description": [
+                    "Mbuji-mayi",
+                    "Congo (Kinshasa)"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -759,8 +929,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Matsapha Airport"
+                ],
+                "description": [
+                    "Manzini",
+                    "Swaziland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -781,8 +956,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Berb\u00c3\u00a9rati Airport"
+                ],
+                "description": [
+                    "Berberati",
+                    "Central African Republic"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -803,8 +983,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Malabo Airport"
+                ],
+                "description": [
+                    "Malabo",
+                    "Equatorial Guinea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -825,8 +1010,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "RAF Ascension Island"
+                ],
+                "description": [
+                    "Wide Awake",
+                    "Saint Helena"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -847,8 +1037,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sir Seewoosagur Ramgoolam International Airport"
+                ],
+                "description": [
+                    "Plaisance",
+                    "Mauritius"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -869,8 +1064,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Diego Garcia Naval Support Facility"
+                ],
+                "description": [
+                    "Diego Garcia Island",
+                    "British Indian Ocean Territory"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -886,13 +1086,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.559200286865234,
-                    7.3570098876953125
+                    14.257399559020996,
+                    10.451399803161621
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Salak Airport"
+                ],
+                "description": [
+                    "Maroua",
+                    "Cameroon"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -908,13 +1113,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.149900436401367,
-                    -12.900500297546387
+                    25.82270050048828,
+                    -17.821800231933594
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Livingstone Airport"
+                ],
+                "description": [
+                    "Livingstone",
+                    "Zambia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -930,13 +1140,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.2719,
-                    -11.5337
+                    43.76639938354492,
+                    -12.298100471496582
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Moh\u00c3\u00a9li Bandar Es Eslam Airport"
+                ],
+                "description": [
+                    "Moheli",
+                    "Comoros"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -957,8 +1172,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Dzaoudzi Pamandzi International Airport"
+                ],
+                "description": [
+                    "Dzaoudzi",
+                    "Mayotte"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -974,13 +1194,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -43.13055419921875,
-                    -22.462499618530273
+                    55.42499923706055,
+                    -21.320899963378906
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Pierrefonds Airport"
+                ],
+                "description": [
+                    "St.-pierre",
+                    "Reunion"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -996,13 +1221,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    48.987998962402344,
-                    -13.188400268554688
+                    48.358299255371094,
+                    -21.201799392700195
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mananjary Airport"
+                ],
+                "description": [
+                    "Mananjary",
+                    "Madagascar"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1018,13 +1248,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.287699699401855,
-                    -7.754509925842285
+                    16.312400817871094,
+                    -9.525090217590332
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Malanje Airport"
+                ],
+                "description": [
+                    "Malanje",
+                    "Angola"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1040,13 +1275,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.754380226135254,
-                    -0.7117390036582947
+                    11.017000198364258,
+                    -2.8499999046325684
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tchibanga Airport"
+                ],
+                "description": [
+                    "Tchibanga",
+                    "Gabon"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1067,8 +1307,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "S\u00c3\u00a3o Tom\u00c3\u00a9 International Airport"
+                ],
+                "description": [
+                    "Sao Tome",
+                    "Sao Tome and Principe"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1084,13 +1329,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.929351806599996,
-                    -25.9971446991
+                    32.77320098876953,
+                    -15.602700233459473
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Songo Airport"
+                ],
+                "description": [
+                    "Songo",
+                    "Mozambique"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1106,13 +1356,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    51.176102,
-                    -10.1096
+                    52.7262,
+                    -7.00478
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Alphonse Airport"
+                ],
+                "description": [
+                    "Alphonse",
+                    "Seychelles"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1128,13 +1383,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.111099243164062,
-                    17.91710090637207
+                    18.374399,
+                    9.14444
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sarh Airport"
+                ],
+                "description": [
+                    "Sarh",
+                    "Chad"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1150,13 +1410,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.0928,
-                    -17.931801
+                    28.885000228881836,
+                    -16.519800186157227
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kariba International Airport"
+                ],
+                "description": [
+                    "Kariba",
+                    "Zimbabwe"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1177,8 +1442,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Lilongwe International Airport"
+                ],
+                "description": [
+                    "Lilongwe",
+                    "Malawi"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1199,8 +1469,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Moshoeshoe I International Airport"
+                ],
+                "description": [
+                    "Maseru",
+                    "Lesotho"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1216,13 +1491,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.8010025024414,
-                    33.38090133666992
+                    0.9773079752922058,
+                    20.243000030517578
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tessalit Airport"
+                ],
+                "description": [
+                    "Tessalit",
+                    "Mali"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1243,8 +1523,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Banjul International Airport"
+                ],
+                "description": [
+                    "Banjul",
+                    "Gambia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1260,13 +1545,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.5581560134887695,
-                    38.28219985961914
+                    4.25832986831665,
+                    39.86220169067383
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "San Luis Airport"
+                ],
+                "description": [
+                    "San Luis",
+                    "Spain"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1287,8 +1577,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kenema Airport"
+                ],
+                "description": [
+                    "Kenema",
+                    "Sierra Leone"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1309,8 +1604,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Osvaldo Vieira International Airport"
+                ],
+                "description": [
+                    "Bissau",
+                    "Guinea-Bissau"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1331,8 +1631,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Roberts International Airport"
+                ],
+                "description": [
+                    "Monrovia",
+                    "Liberia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1348,13 +1653,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8.03629970551,
-                    31.606899261499997
+                    -7.22145,
+                    33.655399
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ben Slimane Airport"
+                ],
+                "description": [
+                    "Ben Slimane",
+                    "Morocco"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1370,13 +1680,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -13.65310001373291,
-                    13.736800193786621
+                    -12.22029972076416,
+                    12.57229995727539
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "K\u00c3\u00a9dougou Airport"
+                ],
+                "description": [
+                    "Kedougou",
+                    "Senegal"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1392,13 +1707,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -11.588700294494629,
-                    25.2367000579834
+                    -7.3165998458862305,
+                    16.621999740600586
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "N\u00c3\u00a9ma Airport"
+                ],
+                "description": [
+                    "Nema",
+                    "Mauritania"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1414,13 +1734,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -10.124400138855,
-                    9.1605596542358
+                    -13.569199562073,
+                    10.350600242615
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Fria Airport"
+                ],
+                "description": [
+                    "Fira",
+                    "Guinea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1436,13 +1761,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -24.284700393676758,
-                    16.58839988708496
+                    -22.888900756835938,
+                    16.136499404907227
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Rabil Airport"
+                ],
+                "description": [
+                    "Boa Vista",
+                    "Cape Verde"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1463,8 +1793,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gonder Airport"
+                ],
+                "description": [
+                    "Gondar",
+                    "Ethiopia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1485,8 +1820,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gitega Airport"
+                ],
+                "description": [
+                    "Gitega",
+                    "Burundi"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1502,13 +1842,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47.45470047,
-                    6.78082990646
+                    50.748,
+                    11.9582
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Alula Airport"
+                ],
+                "description": [
+                    "Alula",
+                    "Somalia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1524,13 +1869,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.799400329589844,
-                    27.178300857543945
+                    34.3950004578,
+                    27.9773006439
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sharm El Sheikh International Airport"
+                ],
+                "description": [
+                    "Sharm El Sheikh",
+                    "Egypt"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1546,13 +1896,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.06520080566406,
-                    -2.9106099605560303
+                    35.25,
+                    -1.5829999446868896
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Keekorok Airport"
+                ],
+                "description": [
+                    "Keekorok",
+                    "Kenya"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1568,13 +1923,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.96560001373291,
-                    29.11009979248047
+                    13.1590003967,
+                    32.6635017395
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tripoli International Airport"
+                ],
+                "description": [
+                    "Tripoli",
+                    "Libya"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1595,8 +1955,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kamembe Airport"
+                ],
+                "description": [
+                    "Kamembe",
+                    "Rwanda"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1617,8 +1982,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Khartoum International Airport"
+                ],
+                "description": [
+                    "Khartoum",
+                    "Sudan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1639,8 +2009,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Torit Airport"
+                ],
+                "description": [
+                    "Torit",
+                    "South Sudan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1656,13 +2031,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.326900482177734,
-                    -3.3633298873901367
+                    32.83330154418945,
+                    -5.076389789581299
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tabora Airport"
+                ],
+                "description": [
+                    "Tabora",
+                    "Tanzania"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1678,13 +2058,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.7487,
-                    3.7176
+                    32.443501,
+                    0.042386
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Entebbe International Airport"
+                ],
+                "description": [
+                    "Entebbe",
+                    "Uganda"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1705,8 +2090,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tirana International Airport Mother Teresa"
+                ],
+                "description": [
+                    "Tirana",
+                    "Albania"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1727,8 +2117,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Varna Airport"
+                ],
+                "description": [
+                    "Varna",
+                    "Bulgaria"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1749,8 +2144,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ercan International Airport"
+                ],
+                "description": [
+                    "Nicosia",
+                    "Cyprus"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1766,13 +2166,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    16.29800033569336,
-                    43.53889846801758
+                    13.630599975585938,
+                    45.141700744628906
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Vrsar Crljenka Airport"
+                ],
+                "description": [
+                    "Vsar",
+                    "Croatia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1788,13 +2193,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.08805599808692932,
-                    49.53390121459961
+                    2.387074,
+                    49.873004
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Amiens-Glisy Airport"
+                ],
+                "description": [
+                    "Amiens",
+                    "France"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1815,8 +2225,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Miquelon Airport"
+                ],
+                "description": [
+                    "Miquelon",
+                    "Saint Pierre and Miquelon"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1832,13 +2247,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.3470993042,
-                    37.6827011108
+                    29.576400756799995,
+                    36.1417007446
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kastelorizo Airport"
+                ],
+                "description": [
+                    "Kastelorizo",
+                    "Greece"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1859,8 +2279,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "P\u00c3\u00a1pa Air Base"
+                ],
+                "description": [
+                    "Papa",
+                    "Hungary"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1876,13 +2301,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.133301,
-                    40.239201
+                    15.7181,
+                    41.541401
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Amendola Air Base"
+                ],
+                "description": [
+                    "Amendola",
+                    "Italy"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1898,13 +2328,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.614999771118164,
-                    45.4734001159668
+                    14.4576,
+                    46.223701
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ljubljana Jo\u00c5\u00bee Pu\u00c4\u008dnik Airport"
+                ],
+                "description": [
+                    "Ljubljana",
+                    "Slovenia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1920,13 +2355,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.178099632263184,
-                    49.97439956665039
+                    13.9697,
+                    50.699699
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Usti Nad Labem Airfield"
+                ],
+                "description": [
+                    "Usti Nad Labem",
+                    "Czech Republic"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1942,13 +2382,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.04309844970703,
-                    32.80939865112305
+                    35.0077018737793,
+                    32.440799713134766
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ein Shemer Airfield"
+                ],
+                "description": [
+                    "Eyn-shemer",
+                    "Israel"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1969,8 +2414,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Xewkija Heliport"
+                ],
+                "description": [
+                    "Gozo",
+                    "Malta"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -1986,13 +2436,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.439599990844727,
-                    46.9911003112793
+                    16.260099411010742,
+                    47.843299865722656
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Wiener Neustadt East Airport"
+                ],
+                "description": [
+                    "Wiener Neustadt Ost",
+                    "Austria"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2008,13 +2463,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -28.715900421142578,
-                    38.519901275634766
+                    -7.88964,
+                    38.533501
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "\u00c3\u0089vora Airport"
+                ],
+                "description": [
+                    "Evora",
+                    "Portugal"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2030,13 +2490,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    17.84589958190918,
-                    43.282901763916016
+                    17.297500610351562,
+                    44.94139862060547
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Banja Luka International Airport"
+                ],
+                "description": [
+                    "Banja Luka",
+                    "Bosnia and Herzegovina"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2052,13 +2517,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.488300323486328,
-                    44.36220169067383
+                    27.6205997467041,
+                    47.17850112915039
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ia\u00c5\u009fi Airport"
+                ],
+                "description": [
+                    "Iasi",
+                    "Romania"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2074,13 +2544,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.823329925537109,
-                    46.3036003112793
+                    7.753366470336914,
+                    46.029319763183594
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Zermatt  Heliport"
+                ],
+                "description": [
+                    "Zermatt",
+                    "Switzerland"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2096,13 +2571,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.025978088378906,
-                    39.654541015625
+                    27.919099807739258,
+                    41.13819885253906
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tekirda\u00c4\u009f \u00c3\u0087orlu Airport"
+                ],
+                "description": [
+                    "\u00c3\u0087orlu",
+                    "Turkey"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2118,13 +2598,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.930999755859375,
-                    46.92770004272461
+                    27.777222,
+                    47.843056
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "B\u00c4\u0083l\u00c8\u009bi International Airport"
+                ],
+                "description": [
+                    "Saltsy",
+                    "Moldova"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2140,13 +2625,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.621401,
-                    41.961601
+                    20.7423,
+                    41.18
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ohrid St. Paul the Apostle Airport"
+                ],
+                "description": [
+                    "Ohrid",
+                    "Macedonia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2167,8 +2657,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gibraltar Airport"
+                ],
+                "description": [
+                    "Gibraltar",
+                    "Gibraltar"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2184,13 +2679,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.839199,
-                    45.385799
+                    21.853701,
+                    43.337299
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Nis Airport"
+                ],
+                "description": [
+                    "Nis",
+                    "Serbia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2206,13 +2706,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.2519,
-                    42.359402
+                    18.72330093383789,
+                    42.404701232910156
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tivat Airport"
+                ],
+                "description": [
+                    "Tivat",
+                    "Montenegro"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2228,13 +2733,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.6135005951,
-                    49.231498718299996
+                    20.2411003113,
+                    49.073600769
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Poprad-Tatry Airport"
+                ],
+                "description": [
+                    "Poprad",
+                    "Slovakia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2250,13 +2760,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.528503418,
-                    21.515699386599998
+                    -71.939598,
+                    21.9175
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "North Caicos Airport"
+                ],
+                "description": [
+                    "North Caicos",
+                    "Turks and Caicos Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2272,13 +2787,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.91179656982422,
-                    18.450700759887695
+                    -69.76170349121094,
+                    18.503700256347656
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "San Isidro Air Base"
+                ],
+                "description": [
+                    "San Isidoro",
+                    "Dominican Republic"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2299,8 +2819,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "San Jos\u00c3\u00a9 Airport"
+                ],
+                "description": [
+                    "San Jose",
+                    "Guatemala"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2321,8 +2846,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Trujillo Airport"
+                ],
+                "description": [
+                    "Trujillo",
+                    "Honduras"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2338,13 +2868,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.82379913330078,
-                    17.98859977722168
+                    -78.33209991455078,
+                    18.34280014038086
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Negril Airport"
+                ],
+                "description": [
+                    "Negril",
+                    "Jamaica"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2360,13 +2895,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -98.3713989258,
-                    19.1581001282
+                    -104.843002,
+                    21.4195
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Amado Nervo National Airport"
+                ],
+                "description": [
+                    "Tepic",
+                    "Mexico"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2382,13 +2922,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.06379699707031,
-                    12.1628999710083
+                    -84.5999984741211,
+                    13.949999809265137
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "San Pedro Airport"
+                ],
+                "description": [
+                    "Bonanza",
+                    "Nicaragua"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2404,13 +2949,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.127899169922,
-                    8.375880241394
+                    -82.25080108642578,
+                    9.340849876403809
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bocas Del Toro International Airport"
+                ],
+                "description": [
+                    "Bocas Del Toro",
+                    "Panama"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2426,13 +2976,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.634499,
-                    10.478
+                    -83.6417007446,
+                    8.71889019012
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Drake Bay Airport"
+                ],
+                "description": [
+                    "Puntarenas",
+                    "Costa Rica"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2448,13 +3003,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.11990356445312,
-                    13.69950008392334
+                    -89.055702,
+                    13.4409
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Monse\u00c3\u00b1or \u00c3\u0093scar Arnulfo Romero International Airport"
+                ],
+                "description": [
+                    "San Salvador",
+                    "El Salvador"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2470,13 +3030,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.51850128173828,
-                    18.241100311279297
+                    -73.78829956054688,
+                    18.271099090576172
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Les Cayes Airport"
+                ],
+                "description": [
+                    "Cayes",
+                    "Haiti"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2492,13 +3057,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.1583023071289,
-                    20.08530044555664
+                    -78.51100158690001,
+                    22.513200759900002
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Cayo Coco Airport"
+                ],
+                "description": [
+                    "Cayo Coco",
+                    "Cuba"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2514,13 +3084,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.88279724121094,
-                    19.687000274658203
+                    -80.088826,
+                    19.660161
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Edward Bodden Airfield"
+                ],
+                "description": [
+                    "Little Cayman",
+                    "Cayman Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2536,13 +3111,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.43910217285156,
-                    24.169099807739258
+                    -73.97090148930002,
+                    22.441799163800003
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Spring Point Airport"
+                ],
+                "description": [
+                    "Spring Point",
+                    "Bahamas"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2558,13 +3138,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.30819702148438,
-                    17.539100646972656
+                    -87.9711,
+                    17.9139
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "San Pedro Airport"
+                ],
+                "description": [
+                    "San Pedro",
+                    "Belize"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2580,13 +3165,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -157.7030029296875,
-                    -19.842500686645508
+                    -157.34500122070312,
+                    -20.13610076904297
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mauke Airport"
+                ],
+                "description": [
+                    "Mauke Island",
+                    "Cook Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2602,13 +3192,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    177.5449981689453,
-                    -16.758899688720703
+                    -179.66700744628906,
+                    -16.74810028076172
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Laucala Island Airport"
+                ],
+                "description": [
+                    "Laucala",
+                    "Fiji"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2624,13 +3219,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -174.957992554,
-                    -21.378299713100002
+                    -173.96200561523438,
+                    -18.58530044555664
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Vava'u International Airport"
+                ],
+                "description": [
+                    "Vava'u",
+                    "Tonga"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2646,13 +3246,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.031005859375,
-                    1.0036100149154663
+                    174.7760009765625,
+                    -1.2244700193405151
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tabiteuea North Airport"
+                ],
+                "description": [
+                    "Tabiteuea North",
+                    "Kiribati"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2668,13 +3273,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -176.199005127,
-                    -13.2383003235
+                    -178.065994263,
+                    -14.3114004135
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Pointe Vele Airport"
+                ],
+                "description": [
+                    "Futuna Island",
+                    "Wallis and Futuna"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2695,8 +3305,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Maota Airport"
+                ],
+                "description": [
+                    "Savaii Island",
+                    "Samoa"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2717,8 +3332,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Pago Pago International Airport"
+                ],
+                "description": [
+                    "Pago Pago",
+                    "American Samoa"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2734,13 +3354,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -140.22900390625,
-                    -8.795599937438965
+                    -152.8059,
+                    -22.63725
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Rimatara Airport"
+                ],
+                "description": [
+                    "Rimatara",
+                    "French Polynesia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2761,8 +3386,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Torres Airstrip"
+                ],
+                "description": [
+                    "Loh\/Linua",
+                    "Vanuatu"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2778,13 +3408,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    163.66099548339844,
-                    -19.720600128173828
+                    166.47300720214844,
+                    -22.25830078125
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Noum\u00c3\u00a9a Magenta Airport"
+                ],
+                "description": [
+                    "Noumea",
+                    "New Caledonia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2800,13 +3435,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    169.24600219727,
-                    -44.722198486328
+                    170.197998046875,
+                    -45.9281005859375
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Dunedin Airport"
+                ],
+                "description": [
+                    "Dunedin",
+                    "New Zealand"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2822,13 +3462,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -58.9866981506,
-                    -62.1907997131
+                    111.523611,
+                    -66.690833
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Wilkins Runway"
+                ],
+                "description": [
+                    "Budd Coast",
+                    "Antarctica"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2844,13 +3489,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    62.18299865722656,
-                    32.367000579833984
+                    67.81700134277344,
+                    34.81700134277344
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bamiyan Airport"
+                ],
+                "description": [
+                    "Bamyan",
+                    "Afghanistan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2866,13 +3516,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    50.590599060058594,
-                    25.918399810791016
+                    50.63359832763672,
+                    26.27079963684082
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bahrain International Airport"
+                ],
+                "description": [
+                    "Bahrain",
+                    "Bahrain"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2888,13 +3543,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    49.485198974609375,
-                    25.28529930114746
+                    53.9640998840332,
+                    22.51449966430664
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Shaibah Airport"
+                ],
+                "description": [
+                    "Shaybah",
+                    "Saudi Arabia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2910,13 +3570,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    51.696998596191406,
-                    32.62110137939453
+                    50.827999115,
+                    30.337600708
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gachsaran Airport"
+                ],
+                "description": [
+                    "Gachsaran",
+                    "Iran"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2932,13 +3597,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.9931983948,
-                    31.7226009369
+                    35.01810073852539,
+                    29.611600875854492
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Aqaba King Hussein International Airport"
+                ],
+                "description": [
+                    "Aqaba",
+                    "Jordan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2959,8 +3629,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Jerusalem Airport"
+                ],
+                "description": [
+                    "Jerusalem",
+                    "West Bank"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2981,8 +3656,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ali Al Salem Air Base"
+                ],
+                "description": [
+                    "Kuwait",
+                    "Kuwait"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -2998,13 +3678,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.01129913330078,
-                    34.589298248291016
+                    35.488399505615234,
+                    33.820899963378906
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Beirut Rafic Hariri International Airport"
+                ],
+                "description": [
+                    "Beirut",
+                    "Lebanon"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3020,13 +3705,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    54.458099365234375,
-                    24.428300857543945
+                    55.60919952392578,
+                    24.261699676513672
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Al Ain International Airport"
+                ],
+                "description": [
+                    "Al Ain",
+                    "United Arab Emirates"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3047,8 +3737,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Masirah Air Base"
+                ],
+                "description": [
+                    "Masirah",
+                    "Oman"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3064,13 +3759,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    66.93879699707031,
-                    24.893600463867188
+                    67.160797,
+                    24.9065
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Jinnah International Airport"
+                ],
+                "description": [
+                    "Karachi",
+                    "Pakistan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3086,13 +3786,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.4412002563,
-                    33.7855987549
+                    43.597099304199,
+                    33.33810043335
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Al Taqaddum Air Base"
+                ],
+                "description": [
+                    "Al Taqaddum",
+                    "Iraq"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3108,13 +3813,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.51559829711914,
-                    33.4114990234375
+                    35.948699951171875,
+                    35.401100158691406
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bassel Al-Assad International Airport"
+                ],
+                "description": [
+                    "Latakia",
+                    "Syria"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3135,8 +3845,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hamad International Airport"
+                ],
+                "description": [
+                    "Doha",
+                    "Qatar"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3152,13 +3867,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.2429962158203,
-                    14.174300193786621
+                    145.729004,
+                    15.119
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Saipan International Airport"
+                ],
+                "description": [
+                    "Saipan",
+                    "Northern Mariana Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3174,13 +3894,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.796005249,
-                    13.4834003448
+                    144.929998,
+                    13.584
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Andersen Air Force Base"
+                ],
+                "description": [
+                    "Andersen",
+                    "Guam"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3196,13 +3921,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    165.761993408,
-                    8.92805957794
+                    171.733002,
+                    6.08333
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mili Island Airport"
+                ],
+                "description": [
+                    "Mili Island",
+                    "Marshall Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3223,8 +3953,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Henderson Field"
+                ],
+                "description": [
+                    "Midway",
+                    "Midway Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3240,13 +3975,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.082993,
-                    9.49891
+                    162.957993,
+                    5.35698
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kosrae International Airport"
+                ],
+                "description": [
+                    "Kosrae",
+                    "Micronesia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3267,8 +4007,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Babelthuap Airport"
+                ],
+                "description": [
+                    "Babelthuap",
+                    "Palau"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3284,13 +4029,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.23799896240234,
-                    24.855100631713867
+                    120.65399932861328,
+                    24.18630027770996
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Taichung Airport"
+                ],
+                "description": [
+                    "Taichung",
+                    "Taiwan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3306,13 +4056,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    130.302001953,
-                    33.149700164799995
+                    137.7030029296875,
+                    34.75019836425781
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hamamatsu Airport"
+                ],
+                "description": [
+                    "Hamamatsu",
+                    "Japan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3328,13 +4083,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    126.382814,
-                    34.991406
+                    128.943915,
+                    37.753601
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gangneung Airport (K-18)"
+                ],
+                "description": [
+                    "Kangnung",
+                    "South Korea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3350,13 +4110,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.35600280761719,
-                    17.555299758911133
+                    124.63600158691406,
+                    12.502400398254395
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Catarman National Airport"
+                ],
+                "description": [
+                    "Catarman",
+                    "Philippines"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3372,13 +4137,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -59.2189,
-                    -29.1058
+                    -55.1241989136,
+                    -27.5181999207
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ober\u00c3\u00a1 Airport"
+                ],
+                "description": [
+                    "Obera",
+                    "Argentina"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3394,13 +4164,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -63.04888916015625,
-                    -9.884721755981445
+                    -54.7248,
+                    -16.586
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Maestro Marinho Franco Airport"
+                ],
+                "description": [
+                    "Rondonopolis",
+                    "Brazil"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3416,13 +4191,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.445099,
-                    -23.444501
+                    -70.77570343017578,
+                    -34.17369842529297
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "De La Independencia Airport"
+                ],
+                "description": [
+                    "Rancagua",
+                    "Chile"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3438,13 +4218,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.47219848632812,
-                    -1.0416500568389893
+                    -79.996957,
+                    -3.441986
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Santa Rosa International Airport"
+                ],
+                "description": [
+                    "Santa Rosa",
+                    "Ecuador"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3465,8 +4250,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Carlos Miguel Gimenez Airport"
+                ],
+                "description": [
+                    "Pilar",
+                    "Paraguay"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3482,13 +4272,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.5644,
-                    1.58919
+                    -71.7603,
+                    6.45108
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Gustavo Vargas Airport"
+                ],
+                "description": [
+                    "Tame",
+                    "Colombia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3504,13 +4299,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -63.135399,
-                    -17.6448
+                    -64.7013015747,
+                    -21.5557003021
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Capitan Oriel Lea Plaza Airport"
+                ],
+                "description": [
+                    "Tarija",
+                    "Bolivia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3526,13 +4326,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -57.633958,
-                    3.547885
+                    -56.3247,
+                    2.5235
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Alalapadu Airstrip"
+                ],
+                "description": [
+                    "Alapadu",
+                    "Suriname"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3548,13 +4353,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -53.204201,
-                    3.61361
+                    -54.373056,
+                    4.285833
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Grand-Santi Airport"
+                ],
+                "description": [
+                    "Grand-Santi",
+                    "French Guiana"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3570,13 +4380,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.9387969971,
-                    -13.535699844400002
+                    -78.4894027709961,
+                    -7.1391801834106445
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mayor General FAP Armando Revoredo Iglesias Airport"
+                ],
+                "description": [
+                    "Cajamarca",
+                    "Peru"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3592,13 +4407,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -57.98529815673828,
-                    -31.438499450683594
+                    -54.21670150756836,
+                    -32.33789825439453
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Cerro Largo International Airport"
+                ],
+                "description": [
+                    "Melo",
+                    "Uruguay"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3614,13 +4434,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.18329620361328,
-                    7.566669940948486
+                    -63.98159,
+                    10.794432
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Andr\u00c3\u00a9s Miguel Salazar Marcano Airport"
+                ],
+                "description": [
+                    "Isla De Coche",
+                    "Venezuela"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3636,13 +4461,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -58.1059,
-                    6.80628
+                    -60.03499984741211,
+                    4.725269794464111
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Orinduik Airport"
+                ],
+                "description": [
+                    "Orinduik",
+                    "Guyana"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3663,8 +4493,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Codrington Airport"
+                ],
+                "description": [
+                    "Codrington",
+                    "Antigua and Barbuda"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3685,8 +4520,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sir Grantley Adams International Airport"
+                ],
+                "description": [
+                    "Bridgetown",
+                    "Barbados"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3702,13 +4542,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -61.3922004699707,
-                    15.336700439453125
+                    -61.299999,
+                    15.547
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Douglas-Charles Airport"
+                ],
+                "description": [
+                    "Dominica",
+                    "Dominica"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3729,8 +4574,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Martinique Aim\u00c3\u00a9 C\u00c3\u00a9saire International Airport"
+                ],
+                "description": [
+                    "Fort-de-france",
+                    "Martinique"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3746,13 +4596,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -61.531799,
-                    16.265301
+                    -61.0844,
+                    16.296902
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "La D\u00c3\u00a9sirade Airport"
+                ],
+                "description": [
+                    "Grande Anse",
+                    "Guadeloupe"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3773,8 +4628,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Point Salines International Airport"
+                ],
+                "description": [
+                    "Point Salines",
+                    "Grenada"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3790,13 +4650,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -64.97339630126953,
-                    18.337299346923828
+                    -64.79859924316406,
+                    17.701900482177734
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Henry E Rohlsen Airport"
+                ],
+                "description": [
+                    "St. Croix Island",
+                    "Virgin Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3812,13 +4677,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -67.12940216064453,
-                    18.49489974975586
+                    -65.4226989746,
+                    18.115800857500002
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Vieques Airport"
+                ],
+                "description": [
+                    "Vieques Island",
+                    "Puerto Rico"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3834,13 +4704,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -62.589900970458984,
-                    17.205699920654297
+                    -62.71870040893555,
+                    17.311199188232422
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Robert L. Bradshaw International Airport"
+                ],
+                "description": [
+                    "Basse Terre",
+                    "Saint Kitts and Nevis"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3861,8 +4736,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "George F. L. Charles Airport"
+                ],
+                "description": [
+                    "Castries",
+                    "Saint Lucia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3883,8 +4763,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Queen Beatrix International Airport"
+                ],
+                "description": [
+                    "Oranjestad",
+                    "Aruba"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3900,13 +4785,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.959801,
-                    12.1889
+                    -63.1088981628,
+                    18.041000366200002
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Princess Juliana International Airport"
+                ],
+                "description": [
+                    "Philipsburg",
+                    "Netherlands Antilles"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3927,8 +4817,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Clayton J Lloyd International Airport"
+                ],
+                "description": [
+                    "The Valley",
+                    "Anguilla"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3949,8 +4844,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Piarco International Airport"
+                ],
+                "description": [
+                    "Port-of-spain",
+                    "Trinidad and Tobago"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3971,8 +4871,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Captain Auguste George Airport"
+                ],
+                "description": [
+                    "Anegada",
+                    "British Virgin Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -3988,13 +4893,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -61.180198669433594,
-                    12.887900352478027
+                    -61.3424,
+                    12.699
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Canouan Airport"
+                ],
+                "description": [
+                    "Canouan Island",
+                    "Saint Vincent and the Grenadines"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4010,13 +4920,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    81.66521,
-                    47.09115
+                    69.594597,
+                    53.329102
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kokshetau Airport"
+                ],
+                "description": [
+                    "Kokshetau",
+                    "Kazakhstan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4032,13 +4947,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    76.13059997559999,
-                    41.44150161739999
+                    74.044418335,
+                    41.4102908129
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kazarman Airport"
+                ],
+                "description": [
+                    "Kazarman",
+                    "Kyrgyzstan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4054,13 +4974,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    50.04669952392578,
-                    40.467498779296875
+                    46.31760025024414,
+                    40.737701416015625
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ganja Airport"
+                ],
+                "description": [
+                    "Ganja",
+                    "Azerbaijan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4076,13 +5001,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.347301483154,
-                    45.002101898193
+                    59.683333,
+                    52.078333
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kvarkeno"
+                ],
+                "description": [
+                    "Kvarkeno",
+                    "Russia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4098,13 +5028,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.686100006103516,
-                    48.88420104980469
+                    33.570999145500004,
+                    44.688999176
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Belbek Airport"
+                ],
+                "description": [
+                    "Sevastopol",
+                    "Ukraine"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4120,13 +5055,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.349599838257,
-                    55.126499176025
+                    23.8981,
+                    52.108299
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Brest Airport"
+                ],
+                "description": [
+                    "Brest",
+                    "Belarus"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4142,13 +5082,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    58.361,
-                    37.986801
+                    59.826698,
+                    41.761101
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Da\u00c5\u009foguz Airport"
+                ],
+                "description": [
+                    "Dasoguz",
+                    "Turkmenistan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4164,13 +5109,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    69.80500030517578,
-                    37.98809814453125
+                    69.6947021484375,
+                    40.21540069580078
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Khudzhand Airport"
+                ],
+                "description": [
+                    "Khudzhand",
+                    "Tajikistan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4186,13 +5136,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    60.641700744628906,
-                    41.58430099487305
+                    64.23320007324219,
+                    41.61389923095703
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sugraly Airport"
+                ],
+                "description": [
+                    "Zarafshan",
+                    "Uzbekistan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4208,13 +5163,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.8178024292,
-                    20.244400024399997
+                    75.758797,
+                    31.4338
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Adampur Airport"
+                ],
+                "description": [
+                    "Adampur",
+                    "India"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4230,13 +5190,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.07009887695312,
-                    9.792329788208008
+                    81.124128,
+                    6.284467
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mattala Rajapaksa International Airport"
+                ],
+                "description": [
+                    "Mattala",
+                    "Sri Lanka"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4252,13 +5217,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -50.516700744599994,
-                    1.04278004169
+                    103.637001038,
+                    10.57970047
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sihanoukville International Airport"
+                ],
+                "description": [
+                    "Sihanoukville",
+                    "Cambodia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4274,13 +5244,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    89.16079711914062,
-                    23.183799743652344
+                    88.61650085449219,
+                    24.43720054626465
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Shah Mokhdum Airport"
+                ],
+                "description": [
+                    "Rajshahi",
+                    "Bangladesh"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4296,13 +5271,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    114.152153015,
-                    22.2893714905
+                    113.915001,
+                    22.308901
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hong Kong International Airport"
+                ],
+                "description": [
+                    "Hong Kong",
+                    "Hong Kong"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4318,13 +5298,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.9,
-                    21.6475
+                    101.99400329589844,
+                    20.68269920349121
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Oudomsay Airport"
+                ],
+                "description": [
+                    "Muang Xay",
+                    "Laos"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4345,8 +5330,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Macau International Airport"
+                ],
+                "description": [
+                    "Macau",
+                    "Macau"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4362,13 +5352,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    86.6465950012,
-                    27.4106333137
+                    86.733902,
+                    26.510066
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Rajbiraj Airport"
+                ],
+                "description": [
+                    "Rajbiraj",
+                    "Nepal"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4384,13 +5379,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    90.46412,
-                    26.88456
+                    90.7471,
+                    27.5622
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Bathpalathang Airport"
+                ],
+                "description": [
+                    "Jakar",
+                    "Bhutan"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4406,13 +5406,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.4336,
-                    0.7324
+                    72.8358333333,
+                    3.47055555556
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Villa Airport"
+                ],
+                "description": [
+                    "Maamigili",
+                    "Maldives"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4428,13 +5433,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.788002014,
-                    17.386400222800003
+                    104.11900329589844,
+                    17.195100784301758
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Sakon Nakhon Airport"
+                ],
+                "description": [
+                    "Sakon Nakhon",
+                    "Thailand"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4450,13 +5460,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    108.1989974975586,
-                    16.043899536132812
+                    103.008003235,
+                    21.3974990845
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Dien Bien Phu Airport"
+                ],
+                "description": [
+                    "Dienbienphu",
+                    "Vietnam"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4472,13 +5487,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    93.53479766845703,
-                    19.42639923095703
+                    94.82260131835938,
+                    20.940399169921875
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Lanywa Airport"
+                ],
+                "description": [
+                    "Lanywa",
+                    "Burma"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4494,13 +5514,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.057426929,
-                    -8.70743498008
+                    112.93699645996094,
+                    0.8355780243873596
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Pangsuma Airport"
+                ],
+                "description": [
+                    "Putussibau-Borneo Island",
+                    "Indonesia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4516,13 +5541,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.29299926757812,
-                    6.1668500900268555
+                    102.251998901,
+                    2.2633600235
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Malacca Airport"
+                ],
+                "description": [
+                    "Malacca",
+                    "Malaysia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4543,8 +5573,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Anduki Airport"
+                ],
+                "description": [
+                    "Seria",
+                    "Brunei"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4560,13 +5595,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    126.401000977,
-                    -8.489029884339999
+                    125.526000977,
+                    -8.54640007019
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Presidente Nicolau Lobato International Airport"
+                ],
+                "description": [
+                    "Dili",
+                    "East Timor"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4587,8 +5627,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tengah Air Base"
+                ],
+                "description": [
+                    "Tengah",
+                    "Singapore"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4604,13 +5649,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.89999389648438,
-                    -25.801700592041016
+                    143.405673,
+                    -9.752801
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Yorke Island Airport"
+                ],
+                "description": [
+                    "Yorke Island",
+                    "Australia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4631,8 +5681,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Christmas Island Airport"
+                ],
+                "description": [
+                    "Christmas Island",
+                    "Christmas Island"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4653,8 +5708,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Norfolk Island International Airport"
+                ],
+                "description": [
+                    "Norfolk Island",
+                    "Norfolk Island"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4670,13 +5730,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    112.291,
-                    32.1506
+                    116.38800048828125,
+                    39.782798767089844
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Beijing Nanyuan Airport"
+                ],
+                "description": [
+                    "Beijing",
+                    "China"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4697,8 +5762,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Wonsan Kalma International Airport"
+                ],
+                "description": [
+                    "Wonsan",
+                    "North Korea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4719,8 +5789,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ulaangom Airport"
+                ],
+                "description": [
+                    "Ulaangom",
+                    "Mongolia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4736,13 +5811,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.915604,
-                    35.599899
+                    -88.8453979492,
+                    39.410400390599996
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Shelby County Airport"
+                ],
+                "description": [
+                    "Shelbyville",
+                    "United States"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4758,13 +5838,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.096900939941406,
-                    56.51750183105469
+                    23.971099853515625,
+                    56.92359924316406
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Riga International Airport"
+                ],
+                "description": [
+                    "Riga",
+                    "Latvia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4780,13 +5865,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.395000457763672,
-                    55.89390182495117
+                    21.093900680541992,
+                    55.973201751708984
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Palanga International Airport"
+                ],
+                "description": [
+                    "Palanga",
+                    "Lithuania"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4802,13 +5892,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.859298706100006,
-                    40.7504005432
+                    44.337200164799995,
+                    41.048500061
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Stepanavan Airport"
+                ],
+                "description": [
+                    "Stepanavan",
+                    "Armenia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4824,13 +5919,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.910701751708984,
-                    15.291899681091309
+                    39.37009811401367,
+                    15.670000076293945
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Massawa International Airport"
+                ],
+                "description": [
+                    "Massawa",
+                    "Eritrea"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4851,8 +5951,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Yasser Arafat International Airport"
+                ],
+                "description": [
+                    "Gaza",
+                    "Palestine"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4868,13 +5973,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.128101348899996,
-                    42.8582000732
+                    42.749012,
+                    43.053597
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Mestia Queen Tamar Airport"
+                ],
+                "description": [
+                    "Mestia",
+                    "Georgia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4890,13 +6000,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    45.02880096435547,
-                    12.829500198364258
+                    46.82619857788086,
+                    14.551300048828125
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Ataq Airport"
+                ],
+                "description": [
+                    "Ataq",
+                    "Yemen"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4917,8 +6032,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "L.F. Wade International International Airport"
+                ],
+                "description": [
+                    "Bermuda",
+                    "Bermuda"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4934,13 +6054,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    159.21841,
-                    -9.092816
+                    165.7949981689453,
+                    -10.72029972076416
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Santa Cruz\/Graciosa Bay\/Luova Airport"
+                ],
+                "description": [
+                    "Santa Cruz\/Graciosa Bay\/Luova",
+                    "Solomon Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4961,8 +6086,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Nauru International Airport"
+                ],
+                "description": [
+                    "Nauru",
+                    "Nauru"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -4983,8 +6113,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Funafuti International Airport"
+                ],
+                "description": [
+                    "Funafuti",
+                    "Tuvalu"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5000,13 +6135,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    17.4709,
-                    -22.4799
+                    19.719400405884,
+                    -17.956499099731
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Rundu Airport"
+                ],
+                "description": [
+                    "Rundu",
+                    "Namibia"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5022,13 +6162,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.266998291015625,
-                    11.967000007629395
+                    42.91699981689453,
+                    11.782999992370605
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Tadjoura Airport"
+                ],
+                "description": [
+                    "Tadjoura",
+                    "Djibouti"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5049,8 +6194,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "John A. Osborne Airport"
+                ],
+                "description": [
+                    "Geralds",
+                    "Montserrat"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5071,8 +6221,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Johnston Atoll Airport"
+                ],
+                "description": [
+                    "Johnston Island",
+                    "Johnston Atoll"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5088,13 +6243,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -15.932,
-                    23.7183
+                    -13.2192,
+                    27.151699
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Hassan I Airport"
+                ],
+                "description": [
+                    "El Aai\u00c3\u00ban",
+                    "Western Sahara"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5115,8 +6275,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Niue International Airport"
+                ],
+                "description": [
+                    "Alofi",
+                    "Niue"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5137,8 +6302,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Cocos (Keeling) Islands Airport"
+                ],
+                "description": [
+                    "Cocos Keeling Island",
+                    "Cocos (Keeling) Islands"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5159,8 +6329,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Kalay Airport"
+                ],
+                "description": [
+                    "Kalemyo",
+                    "Myanmar"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5181,8 +6356,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Svea Airport"
+                ],
+                "description": [
+                    "Sveagruva",
+                    "Svalbard"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",
@@ -5203,8 +6383,13 @@
                 ]
             },
             "properties": {
-                "title": "Starting Point",
-                "description": "Somewhere in the world",
+                "title": [
+                    "Wake Island Airfield"
+                ],
+                "description": [
+                    "Wake island",
+                    "Wake Island"
+                ],
                 "marker-size": "medium",
                 "marker-symbol": "airport",
                 "marker-color": "#f00",

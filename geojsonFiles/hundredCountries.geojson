@@ -1,0 +1,2705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.819900513,
+                    -7.49686002731
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Baimuru Airport"
+                ],
+                "description": [
+                    "Baimuru",
+                    "Papua New Guinea"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.1176834106,
+                    76.01861346460001
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Savissivik Heliport"
+                ],
+                "description": [
+                    "Savissivik",
+                    "Greenland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9405994415,
+                    64.1299972534
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Reykjavik Airport"
+                ],
+                "description": [
+                    "Reykjavik",
+                    "Iceland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.08,
+                    67.0392
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Colville Lake Airport"
+                ],
+                "description": [
+                    "Colville Lake",
+                    "Canada"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626272,
+                    35.752201
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Relizane Airport"
+                ],
+                "description": [
+                    "Relizane",
+                    "Algeria"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.384350061416626,
+                    6.357230186462402
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Cadjehoun Airport"
+                ],
+                "description": [
+                    "Cotonou",
+                    "Benin"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.51242,
+                    12.3532
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ouagadougou Airport"
+                ],
+                "description": [
+                    "Ouagadougou",
+                    "Burkina Faso"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8632140159606934,
+                    9.55718994140625
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tamale Airport"
+                ],
+                "description": [
+                    "Tamale",
+                    "Ghana"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "title": [
+                    null
+                ],
+                "description": [
+                    null,
+                    null
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3010101318359375,
+                    7.246739864349365
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Akure Airport"
+                ],
+                "description": [
+                    "Akure",
+                    "Nigeria"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18361,
+                    13.4815
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Diori Hamani International Airport"
+                ],
+                "description": [
+                    "Niamey",
+                    "Niger"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75469970703125,
+                    35.75809860229492
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Monastir Habib Bourguiba International Airport"
+                ],
+                "description": [
+                    "Monastir",
+                    "Tunisia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.091249942779541,
+                    9.767330169677734
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Niamtougou International Airport"
+                ],
+                "description": [
+                    "Niatougou",
+                    "Togo"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.440810203552246,
+                    50.034400939941406
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Saint Hubert Air Base"
+                ],
+                "description": [
+                    "St.-hubert",
+                    "Belgium"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.05222225189209,
+                    53.502220153808594
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Wilhelmshaven-Mariensiel Airport"
+                ],
+                "description": [
+                    "Wilhelmshaven",
+                    "Germany"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.690399169900004,
+                    58.3074989319
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tartu Airport"
+                ],
+                "description": [
+                    "Tartu",
+                    "Estonia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.201400756835938,
+                    61.1161003112793
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Eura Airport"
+                ],
+                "description": [
+                    "Eura",
+                    "Finland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.56099998951,
+                    52.409301757799994
+                ]
+            },
+            "properties": {
+                "title": [
+                    "RAF Lakenheath"
+                ],
+                "description": [
+                    "Lakenheath",
+                    "United Kingdom"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.21472,
+                    49.706104
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Alderney Airport"
+                ],
+                "description": [
+                    "Alderney",
+                    "Guernsey"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.195509910583496,
+                    49.20790100097656
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Jersey Airport"
+                ],
+                "description": [
+                    "Jersey",
+                    "Jersey"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.623889923095703,
+                    54.08330154418945
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Isle of Man Airport"
+                ],
+                "description": [
+                    "Isle Of Man",
+                    "Isle of Man"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.777599334717,
+                    -51.685699462891
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Port Stanley Airport"
+                ],
+                "description": [
+                    "Stanley",
+                    "Falkland Islands"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27618980408,
+                    52.1273002625
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Soesterberg Air Base"
+                ],
+                "description": [
+                    "Soesterberg",
+                    "Netherlands"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0869598388671875,
+                    52.187198638916016
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Waterford Airport"
+                ],
+                "description": [
+                    "Waterford",
+                    "Ireland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.131400108337402,
+                    55.585601806640625
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Copenhagen Roskilde Airport"
+                ],
+                "description": [
+                    "Copenhagen",
+                    "Denmark"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.277219772338867,
+                    62.0635986328125
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Vagar Airport"
+                ],
+                "description": [
+                    "Vagar",
+                    "Faroe Islands"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2044444,
+                    49.6233333
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Luxembourg-Findel International Airport"
+                ],
+                "description": [
+                    "Luxemburg",
+                    "Luxembourg"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.217499732971,
+                    65.461097717285
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Br\u00c3\u00b8nn\u00c3\u00b8ysund Airport"
+                ],
+                "description": [
+                    "Bronnoysund",
+                    "Norway"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00189971923828,
+                    49.80500030517578
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Bielsko Biala Airport"
+                ],
+                "description": [
+                    "Bielsko-Biala",
+                    "Poland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.422900199890137,
+                    62.04779815673828
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Sveg Airport"
+                ],
+                "description": [
+                    "Sveg",
+                    "Sweden"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.093999862700002,
+                    -29.6884002686
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kleinsee Airport"
+                ],
+                "description": [
+                    "Kleinsee",
+                    "South Africa"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.431100845336914,
+                    -19.97260093688965
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Maun Airport"
+                ],
+                "description": [
+                    "Maun",
+                    "Botswana"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91,
+                    -1.226666
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Oyo Ollombo Airport"
+                ],
+                "description": [
+                    "Oyo",
+                    "Congo (Brazzaville)"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4446,
+                    -4.38575
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ndjili International Airport"
+                ],
+                "description": [
+                    "Kinshasa",
+                    "Congo (Kinshasa)"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3075008392334,
+                    -26.52899932861328
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Matsapha Airport"
+                ],
+                "description": [
+                    "Manzini",
+                    "Swaziland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.518800735473633,
+                    4.39847993850708
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Bangui M'Poko International Airport"
+                ],
+                "description": [
+                    "Bangui",
+                    "Central African Republic"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.708720207214355,
+                    3.755270004272461
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Malabo Airport"
+                ],
+                "description": [
+                    "Malabo",
+                    "Equatorial Guinea"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3937,
+                    -7.9696
+                ]
+            },
+            "properties": {
+                "title": [
+                    "RAF Ascension Island"
+                ],
+                "description": [
+                    "Wide Awake",
+                    "Saint Helena"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.361,
+                    -19.7577
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Sir Charles Gaetan Duval Airport"
+                ],
+                "description": [
+                    "Rodriguez Island",
+                    "Mauritius"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.411102,
+                    -7.31327
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Diego Garcia Naval Support Facility"
+                ],
+                "description": [
+                    "Diego Garcia Island",
+                    "British Indian Ocean Territory"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.360529899600001,
+                    4.08919000626
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tiko Airport"
+                ],
+                "description": [
+                    "Tiko",
+                    "Cameroon"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.16230010986328,
+                    -15.254500389099121
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mongu Airport"
+                ],
+                "description": [
+                    "Mongu",
+                    "Zambia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2439002991,
+                    -11.710800170899999
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Iconi Airport"
+                ],
+                "description": [
+                    "Moroni",
+                    "Comoros"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.28110122680664,
+                    -12.804699897766113
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Dzaoudzi Pamandzi International Airport"
+                ],
+                "description": [
+                    "Dzaoudzi",
+                    "Mayotte"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.13055419921875,
+                    -22.462499618530273
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Samambaia Heliport"
+                ],
+                "description": [
+                    "Saint Denis",
+                    "Reunion"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.632702,
+                    -13.484816
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ampampamena Airport"
+                ],
+                "description": [
+                    "Ampampamena",
+                    "Madagascar"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.683799743700002,
+                    -17.0435009003
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ngjiva Pereira Airport"
+                ],
+                "description": [
+                    "Ondjiva",
+                    "Angola"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.674076080322266,
+                    -3.4584197998046875
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mayumba Airport"
+                ],
+                "description": [
+                    "Mayumba",
+                    "Gabon"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.411739826202393,
+                    1.6629400253295898
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Principe Airport"
+                ],
+                "description": [
+                    "Principe",
+                    "Sao Tome and Principe"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.640201568603516,
+                    -16.104799270629883
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Chingozi Airport"
+                ],
+                "description": [
+                    "Tete",
+                    "Mozambique"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.7262,
+                    -7.00478
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Alphonse Airport"
+                ],
+                "description": [
+                    "Alphonse",
+                    "Seychelles"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.034,
+                    12.1337
+                ]
+            },
+            "properties": {
+                "title": [
+                    "N'Djamena International Airport"
+                ],
+                "description": [
+                    "N'djamena",
+                    "Chad"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.861900329589844,
+                    -19.436399459838867
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Thornhill Air Base"
+                ],
+                "description": [
+                    "Gwert",
+                    "Zimbabwe"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.737222,
+                    -12.075833
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Likoma Island Airport"
+                ],
+                "description": [
+                    "Likoma Island",
+                    "Malawi"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.270999908447266,
+                    -29.546100616455078
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mantsonyane Airport"
+                ],
+                "description": [
+                    "Mantsonyane",
+                    "Lesotho"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.699999809265137,
+                    11.333000183105469
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Sikasso Airport"
+                ],
+                "description": [
+                    "Sikasso",
+                    "Mali"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.65220069885254,
+                    13.338000297546387
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Banjul International Airport"
+                ],
+                "description": [
+                    "Banjul",
+                    "Gambia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3731199502899998,
+                    38.872898101800004
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ibiza Airport"
+                ],
+                "description": [
+                    "Ibiza",
+                    "Spain"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.176600456237793,
+                    7.891290187835693
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kenema Airport"
+                ],
+                "description": [
+                    "Kenema",
+                    "Sierra Leone"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.838079452514648,
+                    11.297355651855469
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Bubaque Airport"
+                ],
+                "description": [
+                    "Bubaque",
+                    "Guinea-Bissau"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6969499588012695,
+                    4.3790202140808105
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Cape Palmas Airport"
+                ],
+                "description": [
+                    "Greenville",
+                    "Liberia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6816701889,
+                    31.3974990845
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mogador Airport"
+                ],
+                "description": [
+                    "Essadouira",
+                    "Morocco"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.748,
+                    12.39533
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Cap Skirring Airport"
+                ],
+                "description": [
+                    "Cap Skiring",
+                    "Senegal"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.423500061035156,
+                    18.570100784301758
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tidjikja Airport"
+                ],
+                "description": [
+                    "Tidjikja",
+                    "Mauritania"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7017974853516,
+                    7.8060193061829
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Nz\u00c3\u00a9r\u00c3\u00a9kor\u00c3\u00a9 Airport"
+                ],
+                "description": [
+                    "Nzerekore",
+                    "Guinea"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.888900756835938,
+                    16.136499404907227
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Rabil Airport"
+                ],
+                "description": [
+                    "Boa Vista",
+                    "Cape Verde"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.77280044555664,
+                    14.14680004119873
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Axum Airport"
+                ],
+                "description": [
+                    "Axum",
+                    "Ethiopia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.318500518798828,
+                    -3.3240199089050293
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Bujumbura International Airport"
+                ],
+                "description": [
+                    "Bujumbura",
+                    "Burundi"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.45470047,
+                    6.78082990646
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Galcaio Airport"
+                ],
+                "description": [
+                    "Galcaio",
+                    "Somalia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.221700668300002,
+                    31.3253993988
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mersa Matruh Airport"
+                ],
+                "description": [
+                    "Mersa-matruh",
+                    "Egypt"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.00400161743164,
+                    -1.5219999551773071
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Hola Airport"
+                ],
+                "description": [
+                    "Hola",
+                    "Kenya"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276000022888184,
+                    32.894100189208984
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Mitiga Airport"
+                ],
+                "description": [
+                    "Tripoli",
+                    "Libya"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.907899856567383,
+                    -2.462239980697632
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kamembe Airport"
+                ],
+                "description": [
+                    "Kamembe",
+                    "Rwanda"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.553199768066406,
+                    15.589500427246094
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Khartoum International Airport"
+                ],
+                "description": [
+                    "Khartoum",
+                    "Sudan"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.58300018310547,
+                    4.400000095367432
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Torit Airport"
+                ],
+                "description": [
+                    "Torit",
+                    "South Sudan"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.508619,
+                    -8.91123
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kilwa Masoko Airport"
+                ],
+                "description": [
+                    "Kilwa Masoko",
+                    "Tanzania"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8882,
+                    3.2817
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kitgum Airport"
+                ],
+                "description": [
+                    "Kitgum",
+                    "Uganda"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7206001282,
+                    41.4146995544
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tirana International Airport Mother Teresa"
+                ],
+                "description": [
+                    "Tirana",
+                    "Albania"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8508,
+                    42.067799
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Plovdiv International Airport"
+                ],
+                "description": [
+                    "Plovdiv",
+                    "Bulgaria"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.48569869995117,
+                    34.71799850463867
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Paphos International Airport"
+                ],
+                "description": [
+                    "Paphos",
+                    "Cyprus"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.810199737548828,
+                    45.46269989013672
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Osijek Airport"
+                ],
+                "description": [
+                    "Osijek",
+                    "Croatia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7605600357100002,
+                    47.9878005981
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Orl\u00c3\u00a9ans-Bricy (BA 123) Air Base"
+                ],
+                "description": [
+                    "Orleans",
+                    "France"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.173099517822266,
+                    46.762901306152344
+                ]
+            },
+            "properties": {
+                "title": [
+                    "St Pierre Airport"
+                ],
+                "description": [
+                    "St.-pierre",
+                    "Saint Pierre and Miquelon"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.909999847399998,
+                    35.4213981628
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Kasos Airport"
+                ],
+                "description": [
+                    "Kasos",
+                    "Greece"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.261093,
+                    47.42976
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Budapest Liszt Ferenc International Airport"
+                ],
+                "description": [
+                    "Budapest",
+                    "Hungary"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1811,
+                    42.431702
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Pescara International Airport"
+                ],
+                "description": [
+                    "Pescara",
+                    "Italy"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.614999771118164,
+                    45.4734001159668
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Portoroz Airport"
+                ],
+                "description": [
+                    "Portoroz",
+                    "Slovenia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.893500328063965,
+                    49.84809875488281
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ho\u00c5\u0099ovice Airport"
+                ],
+                "description": [
+                    "Horovice",
+                    "Czech Republic"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.78219985961914,
+                    32.11470031738281
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Sde Dov Airport"
+                ],
+                "description": [
+                    "Tel-aviv",
+                    "Israel"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4775,
+                    35.857498
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Malta International Airport"
+                ],
+                "description": [
+                    "Malta",
+                    "Malta"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.634167,
+                    48.446389
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Krems Airport"
+                ],
+                "description": [
+                    "Krems",
+                    "Austria"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.13592,
+                    38.7813
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Humberto Delgado Airport (Lisbon Portela Airport)"
+                ],
+                "description": [
+                    "Lisbon",
+                    "Portugal"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72480010986328,
+                    44.45869827270508
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Tuzla International Airport"
+                ],
+                "description": [
+                    "Null",
+                    "Bosnia and Herzegovina"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6205997467041,
+                    47.17850112915039
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Ia\u00c5\u009fi Airport"
+                ],
+                "description": [
+                    "Iasi",
+                    "Romania"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6777801513671875,
+                    46.61360168457031
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Reichenbach Air Base"
+                ],
+                "description": [
+                    "Reichenbach im Kandertal",
+                    "Switzerland"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.08329963684082,
+                    40.73500061035156
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Cengiz Topel Airport"
+                ],
+                "description": [
+                    "Topel",
+                    "Turkey"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.777222,
+                    47.843056
+                ]
+            },
+            "properties": {
+                "title": [
+                    "B\u00c4\u0083l\u00c8\u009bi International Airport"
+                ],
+                "description": [
+                    "Saltsy",
+                    "Moldova"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.621401,
+                    41.961601
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Skopje Alexander the Great Airport"
+                ],
+                "description": [
+                    "Skopje",
+                    "Macedonia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3496599197400005,
+                    36.1511993408
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Gibraltar Airport"
+                ],
+                "description": [
+                    "Gibraltar",
+                    "Gibraltar"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.853701,
+                    43.337299
+                ]
+            },
+            "properties": {
+                "title": [
+                    "Nis Airport"
+                ],
+                "description": [
+                    "Nis",
+                    "Serbia"
+                ],
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        }
+    ]
+}
