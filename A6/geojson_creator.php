@@ -16,7 +16,7 @@ function getRandAirport()
     $result = $conn->query($sql);
     while($row = mysqli_fetch_assoc($result))
     {
-        $sql = "SELECT `airport_id`, `name`, `city`, `country` FROM `A6_airports` WHERE `country` = '{$row['country']}' order by RAND() LIMIT 1;";
+        $sql = "SELECT * FROM `A6_airports` WHERE `country` = '{$row['country']}' order by RAND() LIMIT 1;";
         $result2 = $conn->query($sql);
         $row2 = mysqli_fetch_assoc($result2);
         $countries[] = $row2;
