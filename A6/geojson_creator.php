@@ -16,10 +16,11 @@ function getRandAirport()
     $result = $conn->query($sql);
     while($row = mysqli_fetch_assoc($result))
     {
-        $sql = "SELECT * FROM `A6_airports` WHERE `country` = '{$row['country']}' order by RAND() LIMIT 1;";
+        $sql = "SELECT *, ST_X(geopoint) as lon, ST_Y(geopoint) as lat FROM `A6_airports` WHERE `country` = '{$row['country']}' order by RAND() LIMIT 1;";
         $result2 = $conn->query($sql);
         $row2 = mysqli_fetch_assoc($result2);
         $countries[] = $row2;
+        //verified works
     }
     return $countries;
 }    
@@ -34,24 +35,26 @@ function createGeoJSON()
 
     foreach($airports as $airport)
     {
-        $json['features'][] = ['type'=>'Feature',
-        'geometry'=>[
-            'type'=>'Point',
-            'coordinates'=>[$airport['longitude']*1.0,$airport['latitude']*1.0]],
-            "properties"=> [
-                "title" =>"Starting Point",
-                "description"=>"Somewhere in the US",
+        $json['features'][] = [ "type" => "Feature",
+            "geometry" => [
+                "type" => "Point",
+                "coordinates" => [$airport['lon']*1.0, $airport['lat']*1.0]
+                ],
+            "properties" => [
+                "title"=>"Starting Point",
+                "description"=>"Somewhere in the world",
                 "marker-size"=>"medium",
                 "marker-symbol"=>"airport",
                 "marker-color"=>"#f00",
                 "stroke"=>"#555555",
-                "stroke-opacity" =>1,
+                "stroke-opacity"=>1,
                 "stroke-width"=>2,
-                "fill" => "#555555",
-                "fill-opacity" => 0.5
-            ]
-        ];
-        print_r(json_encode($json,JSON_PRETTY_PRINT));
+                "fill"=>"#555555",
+                "fill-opacity"=>0.5
+                ]
+            ];
+        file_put_contents("output.txt",json_encode($json,JSON_PRETTY_PRINT));
+        //print_r(json_encode($json,JSON_PRETTY_PRINT));
     }
 }
 

@@ -1,0 +1,5219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3028,
+                    -2.6926
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.7834093571,
+                    65.8920273392
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.9167,
+                    66.133301
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.10639953613281,
+                    53.5619010925293
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.51202011108,
+                    27.250999450699997
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.384350061416626,
+                    6.357230186462402
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.33096981048584,
+                    11.160099983215332
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.507689952850342,
+                    10.0826997756958
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.97832989692688,
+                    7.362460136413574
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.983759880065918,
+                    13.779000282287598
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22719955444336,
+                    36.85100173950195
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2545100450515747,
+                    6.165609836578369
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64583015442,
+                    50.2433013916
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.947221755981445,
+                    53.28666687011719
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.47279930114746,
+                    58.41899871826172
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.90369987487793,
+                    61.24919891357422
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.645943,
+                    -15.957725
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6019699573516846,
+                    49.435001373291016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.195509910583496,
+                    49.20790100097656
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.623889923095703,
+                    54.08330154418945
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.777599334717,
+                    -51.685699462891
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.51611,
+                    52.730801
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.52377986907959,
+                    52.18090057373047
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15178012848,
+                    55.7402992249
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.774419784545898,
+                    61.543701171875
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2044444,
+                    49.6233333
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.826700210571,
+                    71.02970123291
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6518,
+                    52.451099
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.336799621582,
+                    67.821998596191
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1401004791,
+                    -25.986299514799995
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.832599639892578,
+                    -18.373899459838867
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.066999435424805,
+                    1.6169999837875366
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.447699546813965,
+                    -5.918059825897217
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3075008392334,
+                    -26.52899932861328
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.786399841308594,
+                    4.2215800285339355
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.708720207214355,
+                    3.755270004272461
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3937,
+                    -7.9696
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.683601,
+                    -20.430201
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.411102,
+                    -7.31327
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.559200286865234,
+                    7.3570098876953125
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.149900436401367,
+                    -12.900500297546387
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2719,
+                    -11.5337
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.28110122680664,
+                    -12.804699897766113
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.13055419921875,
+                    -22.462499618530273
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.987998962402344,
+                    -13.188400268554688
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.287699699401855,
+                    -7.754509925842285
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.754380226135254,
+                    -0.7117390036582947
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7121500968933105,
+                    0.3781749904155731
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.929351806599996,
+                    -25.9971446991
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.176102,
+                    -10.1096
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.111099243164062,
+                    17.91710090637207
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0928,
+                    -17.931801
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.78099823,
+                    -13.7894001007
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.552499771118164,
+                    -29.462299346923828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.8010025024414,
+                    33.38090133666992
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.65220069885254,
+                    13.338000297546387
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5581560134887695,
+                    38.28219985961914
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.176600456237793,
+                    7.891290187835693
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.65369987487793,
+                    11.894800186157227
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.3623,
+                    6.23379
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.03629970551,
+                    31.606899261499997
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.65310001373291,
+                    13.736800193786621
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.588700294494629,
+                    25.2367000579834
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.124400138855,
+                    9.1605596542358
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.284700393676758,
+                    16.58839988708496
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.433998107910156,
+                    12.51990032196045
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.911308,
+                    -3.417209
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.45470047,
+                    6.78082990646
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.799400329589844,
+                    27.178300857543945
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.06520080566406,
+                    -2.9106099605560303
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96560001373291,
+                    29.11009979248047
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.907899856567383,
+                    -2.462239980697632
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.553199768066406,
+                    15.589500427246094
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.58300018310547,
+                    4.400000095367432
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.326900482177734,
+                    -3.3633298873901367
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7487,
+                    3.7176
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7206001282,
+                    41.4146995544
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8251,
+                    43.232101
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.49610137939453,
+                    35.154701232910156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29800033569336,
+                    43.53889846801758
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08805599808692932,
+                    49.53390121459961
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.3802986145,
+                    47.095500946
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3470993042,
+                    37.6827011108
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5007991791,
+                    47.3636016846
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.133301,
+                    40.239201
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.614999771118164,
+                    45.4734001159668
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.178099632263184,
+                    49.97439956665039
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.04309844970703,
+                    32.80939865112305
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2728,
+                    36.027199
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.439599990844727,
+                    46.9911003112793
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.715900421142578,
+                    38.519901275634766
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.84589958190918,
+                    43.282901763916016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.488300323486328,
+                    44.36220169067383
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.823329925537109,
+                    46.3036003112793
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.025978088378906,
+                    39.654541015625
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.930999755859375,
+                    46.92770004272461
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.621401,
+                    41.961601
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3496599197400005,
+                    36.1511993408
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.839199,
+                    45.385799
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2519,
+                    42.359402
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6135005951,
+                    49.231498718299996
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.528503418,
+                    21.515699386599998
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.91179656982422,
+                    18.450700759887695
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.83580017090001,
+                    13.936200141899999
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.938202,
+                    15.9268
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.82379913330078,
+                    17.98859977722168
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.3713989258,
+                    19.1581001282
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.06379699707031,
+                    12.1628999710083
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.127899169922,
+                    8.375880241394
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.634499,
+                    10.478
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.11990356445312,
+                    13.69950008392334
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.51850128173828,
+                    18.241100311279297
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1583023071289,
+                    20.08530044555664
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.88279724121094,
+                    19.687000274658203
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.43910217285156,
+                    24.169099807739258
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.30819702148438,
+                    17.539100646972656
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.7030029296875,
+                    -19.842500686645508
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.5449981689453,
+                    -16.758899688720703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -174.957992554,
+                    -21.378299713100002
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.031005859375,
+                    1.0036100149154663
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -176.199005127,
+                    -13.2383003235
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.25799560546875,
+                    -13.742300033569336
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -170.710006714,
+                    -14.3310003281
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.22900390625,
+                    -8.795599937438965
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.638000488,
+                    -13.3280000687
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.66099548339844,
+                    -19.720600128173828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.24600219727,
+                    -44.722198486328
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.9866981506,
+                    -62.1907997131
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.18299865722656,
+                    32.367000579833984
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.590599060058594,
+                    25.918399810791016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.485198974609375,
+                    25.28529930114746
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.696998596191406,
+                    32.62110137939453
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9931983948,
+                    31.7226009369
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219200134277,
+                    31.864700317383
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.52080154418945,
+                    29.34670066833496
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.01129913330078,
+                    34.589298248291016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.458099365234375,
+                    24.428300857543945
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.890499114990234,
+                    20.675399780273438
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.93879699707031,
+                    24.893600463867188
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4412002563,
+                    33.7855987549
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.51559829711914,
+                    33.4114990234375
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.608056,
+                    25.273056
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.2429962158203,
+                    14.174300193786621
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.796005249,
+                    13.4834003448
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.761993408,
+                    8.92805957794
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.38099670410156,
+                    28.20170021057129
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.082993,
+                    9.49891
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.544236,
+                    7.36731
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.23799896240234,
+                    24.855100631713867
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.302001953,
+                    33.149700164799995
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.382814,
+                    34.991406
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35600280761719,
+                    17.555299758911133
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.2189,
+                    -29.1058
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.04888916015625,
+                    -9.884721755981445
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.445099,
+                    -23.444501
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.47219848632812,
+                    -1.0416500568389893
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.318026,
+                    -26.881224
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5644,
+                    1.58919
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.135399,
+                    -17.6448
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.633958,
+                    3.547885
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.204201,
+                    3.61361
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9387969971,
+                    -13.535699844400002
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.98529815673828,
+                    -31.438499450683594
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.18329620361328,
+                    7.566669940948486
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.1059,
+                    6.80628
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.828602,
+                    17.635799
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.4925003052,
+                    13.0746002197
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3922004699707,
+                    15.336700439453125
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.00320053100586,
+                    14.590999603271484
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.531799,
+                    16.265301
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.78620147705078,
+                    12.004199981689453
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.97339630126953,
+                    18.337299346923828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.12940216064453,
+                    18.49489974975586
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.589900970458984,
+                    17.205699920654297
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.992901,
+                    14.0202
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.015198,
+                    12.5014
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.959801,
+                    12.1889
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.055099,
+                    18.2048
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.33720016479492,
+                    10.595399856567383
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.32969665527344,
+                    18.72719955444336
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.180198669433594,
+                    12.887900352478027
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.66521,
+                    47.09115
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.13059997559999,
+                    41.44150161739999
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.04669952392578,
+                    40.467498779296875
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.347301483154,
+                    45.002101898193
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.686100006103516,
+                    48.88420104980469
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.349599838257,
+                    55.126499176025
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.361,
+                    37.986801
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.80500030517578,
+                    37.98809814453125
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.641700744628906,
+                    41.58430099487305
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.8178024292,
+                    20.244400024399997
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.07009887695312,
+                    9.792329788208008
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.516700744599994,
+                    1.04278004169
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.16079711914062,
+                    23.183799743652344
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.152153015,
+                    22.2893714905
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.9,
+                    21.6475
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.592003,
+                    22.149599
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6465950012,
+                    27.4106333137
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.46412,
+                    26.88456
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4336,
+                    0.7324
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.788002014,
+                    17.386400222800003
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.1989974975586,
+                    16.043899536132812
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.53479766845703,
+                    19.42639923095703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057426929,
+                    -8.70743498008
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29299926757812,
+                    6.1668500900268555
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.382003784,
+                    4.637000083920001
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.401000977,
+                    -8.489029884339999
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.708999634,
+                    1.38725996017
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.89999389648438,
+                    -25.801700592041016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.69000244140625,
+                    -10.450599670410156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.93899536132812,
+                    -29.04159927368164
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.291,
+                    32.1506
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.486,
+                    39.166801
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.938273,
+                    50.066588
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.915604,
+                    35.599899
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.096900939941406,
+                    56.51750183105469
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.395000457763672,
+                    55.89390182495117
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.859298706100006,
+                    40.7504005432
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.910701751708984,
+                    15.291899681091309
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.276100158691,
+                    31.24640083313
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.128101348899996,
+                    42.8582000732
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.02880096435547,
+                    12.829500198364258
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.67870330810547,
+                    32.36399841308594
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.21841,
+                    -9.092816
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.919006,
+                    -0.547458
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.195999,
+                    -8.525
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4709,
+                    -22.4799
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.266998291015625,
+                    11.967000007629395
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.19329833984375,
+                    16.791400909423828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.533996582,
+                    16.7285995483
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.932,
+                    23.7183
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.92559814453125,
+                    -19.079030990600586
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.8339004517,
+                    -12.1883001328
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.05110168457031,
+                    23.188800811767578
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.725,
+                    77.8969444
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.63600158691406,
+                    19.282100677490234
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the world",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        }
+    ]
+}
