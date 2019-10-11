@@ -1,24 +1,9 @@
 
 // Find all sightings
-db.sightings.find()
+db.earthquakes.find()
 
 // Create a 2D index on the sightings table
-db.sightings.createIndex( { loc : "2dsphere" } )
-
-// Find all sightings near manhatten
-db.sightings.find(
-{
-     loc:
-       { $near :
-          {
-            $geometry: { type: "Point",  coordinates: [ -73.9667, 40.78 ] },
-            $minDistance: 1000,
-            $maxDistance: 2000
-          }
-       }
-   }
-   )
-
+db.earthquakes.createIndex( { loc : "2dsphere" } )
 
 // Removes a field from a document
 // Don't run this
