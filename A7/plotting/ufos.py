@@ -23,7 +23,7 @@ data = go.Figure([go.Scattermapbox( lat = df["latitude"],
 
 data.update_layout(
     hovermode='closest',
-    mapbox = go.layout.Mapbox(  accesstoken="sk.eyJ1IjoicGlyaG9tZWdhIiwiYSI6ImNrMW1uNm10czAyaXUzbXJ5aWdtcWF0czQifQ.UFhkWIiTARUXtsAb3nCYpg",
+    mapbox = go.layout.Mapbox(  accesstoken="",
                                 bearing = 0,
                                 center = dict(lat = 51.47781, lon = 0.0),
                                 pitch = 0,
@@ -31,7 +31,7 @@ data.update_layout(
 
 # sets the layout for plotting
 # layout = go.Layout( autosize = False,
-#                     mapbox = dict(  accesstoken="sk.eyJ1IjoicGlyaG9tZWdhIiwiYSI6ImNrMW1uNm10czAyaXUzbXJ5aWdtcWF0czQifQ.UFhkWIiTARUXtsAb3nCYpg",
+#                     mapbox = dict(  accesstoken="",
 #                                     bearing = 10,
 #                                     pitch = 60,
 #                                     zoom = 13,
