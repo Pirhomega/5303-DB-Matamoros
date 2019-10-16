@@ -28,6 +28,7 @@ figure = go.Figure(go.Scattermapbox(lat = df["latitude"],
 # sets the layout for plotting
 figure.update_layout(
     autosize = True,
+    template="plotly_dark",
     hovermode="closest",
     mapbox = go.layout.Mapbox(  accesstoken=mapbox_token,
                                 bearing = 0,
