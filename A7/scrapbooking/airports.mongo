@@ -2,7 +2,7 @@
 // Find all sightings
 db.airports.find()
 
-// Create a 2D index on the sightings table
+// Create a 2D index on the airports table
 db.airports.createIndex( { loc : "2dsphere" } )
 
 // Removes a field from a document

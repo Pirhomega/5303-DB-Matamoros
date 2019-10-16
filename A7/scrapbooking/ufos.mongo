@@ -2,7 +2,7 @@
 // Find all sightings
 db.ufos.find()
 
-// Create a 2D index on the sightings table
+// Create a 2D index on the ufos table
 db.ufos.createIndex( { loc : "2dsphere" } )
 
 // Removes a field from a document

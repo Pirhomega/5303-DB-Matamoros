@@ -1,0 +1,5 @@
+//remove "geometry" field from all documents
+db.volcanos.update({},{$unset:{geometry: ""}},{multi: true})
+
+// Create a 2D index on the volcanos table
+db.volcanos.createIndex( { loc : "2dsphere" } )
