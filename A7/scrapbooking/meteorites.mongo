@@ -1,0 +1,5 @@
+// remove the GeoLocation field
+db.meteorites.update({},{$unset: {GeoLocation: ""}},{multi: true})
+
+// Create a 2D index on the sightings table
+db.meteorites.createIndex( { loc : "2dsphere" } )
