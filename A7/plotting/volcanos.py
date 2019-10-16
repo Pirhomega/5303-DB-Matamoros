@@ -16,7 +16,6 @@ vo = db["volcanos"]
 cursor_volcanos = vo.find()
 df = pd.DataFrame(list(cursor_volcanos))
 df2 = pd.DataFrame(list(df["properties"]))
-# print(df2["Latitude"])
 
 # sets the geospatial data up
 figure = go.Figure(go.Scattermapbox(lat = df2["Latitude"], 
