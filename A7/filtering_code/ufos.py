@@ -18,6 +18,7 @@ for obj in ufos.find():
     mongo_id = obj["_id"]
     lat = obj["latitude"]
     lon = obj["longitude"]
+    fatalities = obj["TotalFatalInjuries"]
     # Check if lat and lon are ints or floats
     lati = isinstance(lat, int)
     loni = isinstance(lon, int) 
