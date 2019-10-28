@@ -1,0 +1,14 @@
+//changing reclong field name to 'longitude'
+db.meteorites.updateMany({}, {$rename: {"reclong" : "longitude"}})
+
+//changing reclat field name to 'latitude'
+db.meteorites.updateMany({}, {$rename: {"reclat" : "latitude"}})
+
+//moves latitude field out of its embedded position and renaming to 'latitude'
+db.volcanos.updateMany({}, {$rename: {"properties.Latitude" : "latitude"}})
+
+//moves longitude field out of its embedded position and renaming to 'longitude'
+db.volcanos.updateMany({}, {$rename: {"properties.Longitude" : "longitude"}})
+
+//moves longitude field out of its embedded position and renaming to 'longitude'
+db.volcanos.updateMany({}, {$rename: {"properties.Country" : "longitude"}})
