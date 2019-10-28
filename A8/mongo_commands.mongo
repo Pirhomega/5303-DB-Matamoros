@@ -12,3 +12,12 @@ db.volcanos.updateMany({}, {$rename: {"properties.Longitude" : "longitude"}})
 
 //moves longitude field out of its embedded position and renaming to 'longitude'
 db.volcanos.updateMany({}, {$rename: {"properties.Country" : "longitude"}})
+
+//moves PEI field out of its embedded position
+db.volcanos.updateMany({}, {$rename: {"properties.PEI" : "PEI"}})
+
+//moves V_Name field out of its embedded position
+db.volcanos.updateMany({}, {$rename: {"properties.V_Name" : "V_Name"}})
+
+//moves VolcanoID field out of its embedded position
+db.volcanos.updateMany({}, {$rename: {"properties.VolcanoID" : "VolcanoID"}})

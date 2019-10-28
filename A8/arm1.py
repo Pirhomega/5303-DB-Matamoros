@@ -22,7 +22,7 @@ cursor_countries = co.distinct("properties.ADMIN")
 df = pd.DataFrame(list(cursor_countries))
 
 # some initializations
-events = [("ufos", go.Figure()), ("meteorites", go.Figure()), ("volcanos", go.Figure())]
+events = [("ufos", go.Figure())]
 country_event_lats = []
 country_event_lons = []
 country_colors = ['red', 'yellow', 'blue', 'green', 'white']
