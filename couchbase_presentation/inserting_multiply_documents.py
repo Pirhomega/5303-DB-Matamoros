@@ -22,4 +22,5 @@ bucket1 = cluster.open_bucket('class-bucket')
 #     print(res)
 
 # will update all documents with 'geometry.type' = "MultiPolygon" with 'version = "1.0.1"'
-bucket1.n1ql_query('UPDATE `class-bucket` set version = "1.0.2" where geometry.type = "MultiPolygon" returning _id').execute()
+bucket1.n1ql_query('UPDATE `class-bucket` set version = "1.0.2" where geometry.type = "MultiPolygon"').execute()
+bucket1.n1ql_query('UPDATE `class-bucket` unset version where geometry.type = "MultiPolygon"').execute()
