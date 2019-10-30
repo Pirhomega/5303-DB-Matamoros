@@ -1,10 +1,14 @@
 from couchbase.cluster import Cluster
 from couchbase.cluster import PasswordAuthenticator
+from couchbase.admin import Admin # the admin class gives me the power to create/delete buckets
 from couchbase.n1ql import N1QLQuery
 
 cluster = Cluster('couchbase://localhost:8091')
-authenticator = PasswordAuthenticator('corbinmatamoros', 'Matt&Corbin')
+authenticator = PasswordAuthenticator('corbinmatamoros', 'MattCorbin')
 cluster.authenticate(authenticator)
+
+adm = Admin('corbinmatamoros','MattCorbin',host='localhost',port=8091)
+adm.bucket_create('test-bucket',bucket_type='couchbase')
 
 # opens whatever bucket
 cb = cluster.open_bucket('swallows-sample')
