@@ -20,6 +20,9 @@ import time
 # allows to generate random numbers
 import random
 
+# allows me to find the computer's ip address
+import socket
+
 def train_model():
     # Get raw text as string.
     with open("/Users/student/Desktop/1.txt", errors ="ignore") as a:
@@ -43,18 +46,25 @@ def train_model():
     return model_combo
 
 # generate a message and upload to database
-def generate_messages(row, b_messages, b_users_messages, model, user):
-    # generate the message from trained model
-    message = model.make_short_sentence(100)
+def generate_messages(row, b_messages, b_users_messages, model, user, message_num):
+    for count in range(0,message_num):
+        # generate the message from trained model
+        message = model.make_short_sentence(100)
 
-    # generate a random timestamp for message
-    now = int(datetime.timestamp(datetime.now()))
-    timestmp = datetime.fromtimestamp(random.randint(0,now))
+        # generate a random timestamp for message
+        now = int(datetime.timestamp(datetime.now()))
+        timestmp = datetime.fromtimestamp(random.randint(0,now))
 
-    # who will receive the message
-    index = random.randint(0,len(row)-1)
-    recipient = row[index]
-    b_messages.upsert('key'+str(user),{'message_id':user, 'message':message, 'create_time':str(timestmp)})
+        # who will receive the message
+        index = random.randint(0,len(row)-1)
+        recipient = row[index]
+
+        # ip address of this computer
+        ipaddress = socket.gethostbyname(socket.gethostname())
+
+        # upload database with message and connection info between sender and receiver
+        b_messages.upsert(ipaddress+'::'+str(user)+'_'+str(count),{'message':message, 'create_time':str(timestmp)})
+        b_users_messages.upsert(ipaddress+'::'+str(user)+'_'+str(count),{'from':user, 'to':recipient})
 
 start = time.perf_counter()
 
@@ -72,11 +82,12 @@ b_users_messages = cluster.open_bucket('user-messages')
 # train and return a trained model for generating random messages
 model = train_model()
 
-for user in range(0,10):
+for user in range(0,10000):
     query_string = "select friends from `user-connections` where user_id = $1"
     result = b_users.n1ql_query(N1QLQuery(query_string, user))
     for row in result:
-        generate_messages(row["friends"], b_messages, b_users_messages, model, user)
+        message_num = random.randint(0,93)
+        generate_messages(row["friends"], b_messages, b_users_messages, model, user, message_num)
 
 execution_time = time.perf_counter() - start
 print(execution_time)
