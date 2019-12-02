@@ -5,7 +5,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install markovify
 brew install libcouchbase
 python3 -m pip install couchbase
-ping 10.0.88.237 -c 3
+ping  -c 3
 brew install wget
 wget https://www.gutenberg.org/files/2591/2591-0.txt -O 1.txt
 wget http://www.gutenberg.org/cache/epub/5200/pg5200.txt -O 2.txt
