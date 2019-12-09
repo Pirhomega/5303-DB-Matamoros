@@ -1,3 +1,9 @@
+# Corbin Matamoros
+# 5303-Databases, Dr. Terry Griffin
+# This program will simulate a chat service in which users can send messages to
+# their friends. Those messages and their basic metadata are uploaded to an instance
+# of Couchbase (either remotely or locally).
+
 # will be used to generate random messages
 import markovify
 
@@ -21,8 +27,10 @@ import time
 import random
 
 # allows me to find the computer's ip address
+# This has been known to cause a the program to crash. Remove if so.
 import socket
 
+# train the markovify model by combining four individually-trained models
 def train_model():
     # Get raw text as string.
     with open("/Users/student/Desktop/1.txt", errors ="ignore") as a:
@@ -71,12 +79,15 @@ def generate_messages(row, b_messages, b_users_messages, model, user, message_nu
         b_users_messages.upsert(ipaddress+'::'+str(user)+'_'+str(count),{'from':user, 'to':recipient})
         single_message_time = time.perf_counter() - front
         print("It took " + str(single_message_time) + " seconds to upload one message!")
+
 ############################################################################################################################################
-#
-#
-#
-#
+#                                           M       M         AA         II III II     N       N                                           #
+#                                           M M   M M       A    A           I         N N     N                                           #
+#                                           M   M   M      AA AA AA          I         N   N   N                                           #
+#                                           M       M     A        A         I         N     N N                                           #
+#                                           M       M    A          A    II III II     N       N                                           #
 ############################################################################################################################################
+
 # open output file
 outfile = open("output.txt", 'w')
 
@@ -98,14 +109,16 @@ b_users_messages = cluster.open_bucket('user-messages')
 model = train_model()
 
 # main part of the program that controls uploading
-for user in range(1,11):
+for user in range(1,1000001):
     # will be used to time each set of message uploads per user
     start = time.perf_counter()
 
-    # queries so we can grab a user's friend list
+    # queries so we can grab a user's friend list. 
+    # 'user-id' has been indexed in the `user-connections` bucket to make querying faster
     query_string1 = "select friends from `user-connections` where user_id = $1"
 
     # queries to grab the user's age which will let us determine how many messages they will send
+    # 'user-id' has been indexed in the `user-connections` bucket to make querying faster
     query_string2 = "select age from `users` where user_id = $1"
 
     # run the queries

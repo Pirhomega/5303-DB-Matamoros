@@ -1,4 +1,4 @@
-# this program will renumber the "user_id" field from 0 to 9999
+# this program will renumber the "user_id" field from 0 to N
 # Thank you, https://realpython.com/python-json/#python-supports-json-natively
 import json
 
