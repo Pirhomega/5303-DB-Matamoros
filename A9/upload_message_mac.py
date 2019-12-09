@@ -48,6 +48,9 @@ def train_model():
 # generate a message and upload to database
 def generate_messages(row, b_messages, b_users_messages, model, user, message_num):
     for count in range(0,message_num):
+        # to find execution time of one message
+        front = time.perf_counter()
+
         # generate the message from trained model
         message = model.make_short_sentence(100)
 
@@ -59,14 +62,26 @@ def generate_messages(row, b_messages, b_users_messages, model, user, message_nu
         index = random.randint(0,len(row)-1)
         recipient = row[index]
 
-        # ip address of this computer
+        # ip address of this computer. If socket doesn't work, replace with what's commented below instruction
         ipaddress = socket.gethostbyname(socket.gethostname())
+        # ipaddress = "<insert ip address here>"
 
         # upload database with message and connection info between sender and receiver
         b_messages.upsert(ipaddress+'::'+str(user)+'_'+str(count),{'message':message, 'create_time':str(timestmp)})
         b_users_messages.upsert(ipaddress+'::'+str(user)+'_'+str(count),{'from':user, 'to':recipient})
+        single_message_time = time.perf_counter() - front
+        print("It took " + str(single_message_time) + " seconds to upload one message!")
+############################################################################################################################################
+#
+#
+#
+#
+############################################################################################################################################
+# open output file
+outfile = open("output.txt", 'w')
 
-start = time.perf_counter()
+#used to time execution time
+beginning = time.perf_counter()
 
 # connect to the cluster
 cluster = Cluster('http://10.0.88.237:8091')
@@ -82,12 +97,44 @@ b_users_messages = cluster.open_bucket('user-messages')
 # train and return a trained model for generating random messages
 model = train_model()
 
-for user in range(0,10000):
-    query_string = "select friends from `user-connections` where user_id = $1"
-    result = b_users.n1ql_query(N1QLQuery(query_string, user))
-    for row in result:
-        message_num = random.randint(0,93)
-        generate_messages(row["friends"], b_messages, b_users_messages, model, user, message_num)
+# main part of the program that controls uploading
+for user in range(1,11):
+    # will be used to time each set of message uploads per user
+    start = time.perf_counter()
 
-execution_time = time.perf_counter() - start
-print(execution_time)
+    # queries so we can grab a user's friend list
+    query_string1 = "select friends from `user-connections` where user_id = $1"
+
+    # queries to grab the user's age which will let us determine how many messages they will send
+    query_string2 = "select age from `users` where user_id = $1"
+
+    # run the queries
+    result1 = b_users_connections.n1ql_query(N1QLQuery(query_string1, user))
+    result2 = b_users.n1ql_query(N1QLQuery(query_string2, user))
+
+    # accesses the results of each query
+    for row1 in result1:
+        for row2 in result2:
+            # number of messages sent is dependent on the age of the sender
+            if (row2['age'] < 25):
+                message_num = 128
+            elif (row2['age'] < 35):
+                message_num = 75
+            elif (row2['age'] < 45):
+                message_num = 52
+            elif (row2['age'] < 55):
+                message_num = 33
+            elif (row2['age'] < 65):
+                message_num = 16
+            else:
+                message_num = 10
+            outfile.write("Individual " + str(user) + " is " + str(row2['age']) + " years old.\nThis individual will send: " + str(message_num) + " messages. ")
+            generate_messages(row1["friends"], b_messages, b_users_messages, model, user, message_num)
+
+    # determining the execution time to upload all user's messages
+    message_time = time.perf_counter() - start
+    outfile.write("It took " + str(message_time) + " seconds to upload " + str(message_num) + " messages.\n\n")
+
+# to get the total execution time of the program
+execution_time = time.perf_counter() - beginning
+print("Total execution time: " + str(execution_time))
