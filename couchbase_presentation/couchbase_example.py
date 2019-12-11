@@ -10,7 +10,7 @@ cluster = Cluster('http://127.0.0.1:8091')
 authenticator = PasswordAuthenticator('corbinmatamoros', 'MattCorbin')
 cluster.authenticate(authenticator)
 
-#open the 'travel-bucket' within the cluster 'cluster'
+#open the 'class-bucket' within the cluster 'cluster'
 bucket1 = cluster.open_bucket('class-bucket')
 
 # only has to be run once
