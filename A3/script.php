@@ -17,9 +17,9 @@ error_reporting(-1);
 
 // Fill in your connection info
 $host = 'localhost';
-$username = 'matamoros';
-$password = 'nDpa2T3JfRp3';
-$database = 'matamoros';
+$username = '';
+$password = '';
+$database = '';
 
 // Do the connection
 $conn = mysqli_connect($host, $username, $password, $database);
