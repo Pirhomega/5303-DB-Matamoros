@@ -1,1 +1,1 @@
-This folder contains the Couchbase presentation and all demonstration code used. The .json files were uploaded to the Couchbase instance with the 'cbimport' command.
+This folder contains the Couchbase presentation and all demonstration code used. The .json files were uploaded to the Couchbase instance with the 'cbimport' command. The ultimate and more complete Couchbase presentation would be in A9.
