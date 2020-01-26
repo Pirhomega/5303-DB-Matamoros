@@ -1,0 +1,6 @@
+docker run --name mongodb -v mongodata:/data/db -d -p 27017:27017 mongo
+docker exec -it mongodb mongo
+docker cp path/to/file.filetype mongodb:/tmp/file.filetype
+
+HOW TO REMOVE A FILE FROM A DOCKER CONTAINER: docker exec <container> rm -rf <YourFile>
+HOW TO REMOVE A SPECIFIC FIELD FROM A DOCUMENT: db.collection.update({},{$unset:{Field_name: ""}},{multi: true/false})
